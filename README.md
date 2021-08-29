@@ -10,3 +10,5 @@ This project is limited to question type posts and comparing the average number 
 I chose to dig a lot deeper than what the project guidelines suggested. As a result I discovered some very interesting results and came up with much different conclusions than the guided project results.
 
 ### Dig in and find out!
+
+[Click here to see the pdf file](Hacker+News+Project+IIC.pdf)
