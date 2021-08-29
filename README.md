@@ -10,4 +10,4 @@ I chose to dig a lot deeper than what the project guidelines suggested. As a res
 
 ### Dig in and find out!
 
-[Click here to see the pdf file](Hacker+News+Project+IIC.pdf)
+[Click here to see the pdf file](Hacker+News+Project+IIC.pdf) (if you would like to download this file)
