@@ -1,5 +1,4 @@
 # Hacker-News-Posts-Analysis
-
 [Click here to see the Jupyter Notebook](Hacker+News+Project+IIC2.ipynb)
 This project analysis focuses on determining best time to post questions that yield highest volume of responses.
 
