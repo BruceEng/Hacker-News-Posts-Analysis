@@ -1,5 +1,6 @@
 # Hacker-News-Posts-Analysis
 [Click here to see the Jupyter Notebook](Hacker+News+Project+IIC2.ipynb)
+
 This project analysis focuses on determining best time to post questions that yield highest volume of responses.
 
 Hacker News (sometimes abbreviated as HN) is a social news website focusing on computer science and entrepreneurship. Hacker News was started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") receive votes and comments, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of the Hacker News listings can get hundreds of thousands of visitors as a result.
